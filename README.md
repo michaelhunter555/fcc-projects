@@ -1,18 +1,25 @@
 #List of projects and order completed:
 
-##project 1 - RandomQuote App
-###link: https://codepen.io/idioticbrilliance/pen/vYdoVqE
+_Note_: I long since drifted away from the path as I started to get ideas for my own projects and worked on them instead. However, I believe it's important to finish what you started, so I came back and knocked out the project 4 & 5 during my lunch breaks at my 9-5 over a period of 2 weeks.
 
-##project 2 - Markdown Previewer
-###link: https://codepen.io/idioticbrilliance/pen/QWmLrrP
+## Project 1 - Random Quote App
 
-##project 3 - drum machine
-###link: https://codepen.io/idioticbrilliance/pen/gOjgRdW
+Link: [Random Quote App](https://codepen.io/idioticbrilliance/pen/vYdoVqE)
 
-##project 4 - javaScript Calculator
-###link: https://codepen.io/idioticbrilliance/pen/KKGZWZL?editors=0010
+## Project 2 - Markdown Previewer
 
-##project 5 - 25 + 5 clock
-###link: https://codepen.io/idioticbrilliance/pen/oNadGZB?editors=0010
+Link: [Markdown Previewer](https://codepen.io/idioticbrilliance/pen/QWmLrrP)
+
+## Project 3 - Drum Machine
+
+Link: [Drum Machine](https://codepen.io/idioticbrilliance/pen/gOjgRdW)
+
+## Project 4 - JavaScript Calculator
+
+Link: [JavaScript Calculator](https://codepen.io/idioticbrilliance/pen/KKGZWZL?editors=0010)
+
+## Project 5 - 25 + 5 Clock
+
+Link: [25 + 5 Clock](https://codepen.io/idioticbrilliance/pen/oNadGZB?editors=0010)
 
 !['Fcc-certifiate'](./images/certification_Fcc.png)
