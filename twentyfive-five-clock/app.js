@@ -49,8 +49,8 @@ const App = () => {
   const [timeLeft, setTimeLeft] = React.useState(sessionLength * 60);
   const [timerRunning, setTimerRunning] = React.useState(false);
   const [displayTime, setDisplayTime] = React.useState("");
-  const intervalId = React.useState(null);
-  const audioRef = React.useState(null);
+  const intervalId = React.useRef(null);
+  const audioRef = React.useRef(null);
 
   React.useEffect(() => {
     if (timerRunning) {
