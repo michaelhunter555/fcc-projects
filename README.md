@@ -1,6 +1,6 @@
 #List of projects and order completed:
 
-_Note_: I long since drifted away from the path as I started to get ideas for my own projects and worked on them instead. However, I believe it's important to finish what you started, so I came back and knocked out the project 4 & 5 during my lunch breaks at my 9-5 over a period of 2 weeks.
+_Note_: I initially started this course in 2022, but after gaining confidence I went on to start creating apps derived from my own ideas and interests. However, I wanted to finish what I started, so I came back to complete the rest of the projects. Very grateful for FCC.
 
 ## Project 1 - Random Quote App
 
